@@ -1,2 +1,2 @@
 a1.txt addeded
-added data from feature-1
+a1.txt added from from feature-1
